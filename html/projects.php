@@ -21,7 +21,7 @@
 		<div class="body-box">
 			<br></br>	
 			<?php
-				$handle = fopen("projects/project_list.txt", "r");
+				$handle = fopen("f_projects/project_list.txt", "r");
 				$card_count = fgets($handle, 4096);
 				while(!feof($handle) && $i < $card_count){
 					$project_link = fgets($handle, 4096);
