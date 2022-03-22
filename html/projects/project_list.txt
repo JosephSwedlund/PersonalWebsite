@@ -1,7 +1,7 @@
 2
 projects/librepadt500.php
 LibrepadT500
-IMG_5077.png
+thinkdpad.png
 This is librebooted ThinkpadT500, with Trisquel which means its completely free (as in freedom.)
 index.php
 Personal Website
