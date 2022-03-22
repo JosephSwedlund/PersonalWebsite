@@ -31,37 +31,37 @@
 					<th style="background-color: firebrick;">Useful Tools For GNU/Linux</th>	
 				</tr>
 				<tr>
-					<td><a href="programming.php#picking_a_language">Picking a Language</a></td>
+					<td><a href="tutorials/programming.php#picking_a_language">Picking a Language</a></td>
 					<td>Intro to Shell</td>
 					<td>vim</td>
 				</tr>
 				<tr>
-					<td><a href="programming.php#hello_world">Hello World</a></td>
+					<td><a href="tutorials/programming.php#hello_world">Hello World</a></td>
 					<td>Navigation</td>
 					<td>grep</td>
 				</tr>
 				<tr>
-					<td><a href="programming.php#variables_and_data_types">Variables And Data Types</a></td>
+					<td><a href="tutorials/programming.php#variables_and_data_types">Variables And Data Types</a></td>
 					<td>.rc files</td>
 					<td>git</td>
 				</tr>
 				<tr>
-					<td><a href="programming.php#loops_and_printing">Loops and Printing</a></td>
+					<td><a href="tutorials/programming.php#loops_and_printing">Loops and Printing</a></td>
 					<td>Basic Shell Scripting</td>
 					<td>sed</td>
 				</tr>
 				<tr>
-					<td><a href="programming.php#functions">Functions</a></td>
+					<td><a href="tutorials/programming.php#functions">Functions</a></td>
 					<td>Piping</td>
 					<td>tree</td>
 				</tr>
 				<tr>
-					<td><a href="programming.php#classes">Classes</a></td>
+					<td><a href="tutorials/programming.php#classes">Classes</a></td>
 					<td>How to Automate</td>
 					<td>awk</td>
 				</tr>
 				<tr>
-					<td><a href="programming.php#extra_problems">Extra Problems</a></td>
+					<td><a href="tutorials/programming.php#extra_problems">Extra Problems</a></td>
 					<td>Examples of Automation</td>
 					<td>suckless utilities</td>
 				</tr>
