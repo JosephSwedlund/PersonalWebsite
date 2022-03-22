@@ -1,4 +1,4 @@
-2
+3
 projects/librepadt500.php
 LibrepadT500
 images/thinkpad.png
@@ -7,3 +7,8 @@ index.php
 Personal Website
 images/website.png
 This is the website, If you're reading this clearly the site works. But that doesn't mean its finished.
+https://github.com/JosephSwedlund/99HaskellProblems
+Haskell99
+images/haskell_logo.png
+I'm working through a probelm set of 99 Haskell problems in order to teach myself functional programming.
+
